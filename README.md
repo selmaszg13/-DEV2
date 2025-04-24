@@ -1,1 +1,2 @@
-# -DEV2
+# -dev2
+örnek bir form yapısı
